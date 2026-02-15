@@ -1,0 +1,1 @@
+console.log('ini file yang salah, bakal dihapus.')
