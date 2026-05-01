@@ -1,4 +1,4 @@
-const setData = 'This is my data.'
+const setValue = 'This is my value.'
 
 console.log('Hello, World!')
-console.log(`Output: ${setData}`)
+console.log(`Output: ${setValue}`)
